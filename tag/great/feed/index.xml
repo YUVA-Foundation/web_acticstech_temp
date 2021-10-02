@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Great &#8211; Actics Technologies</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 18 Sep 2015 07:21:40 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/03/cropped-actics-04-1-32x32.png</url>
+	<title>Great &#8211; Actics Technologies</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What Makes A Financial Website Successful?</title>
+		<link>./../../../standard-post/index.html</link>
+					<comments>./../../../standard-post/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2015 07:21:40 +0000</pubDate>
+				<category><![CDATA[Anything]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[Awesome]]></category>
+		<category><![CDATA[Great]]></category>
+		<category><![CDATA[Super]]></category>
+		<guid isPermaLink="false">http://vietcao.local/polygon/?p=393</guid>
+
+					<description><![CDATA[Financial services are faced with the challenge of delivering their customers with an online experience that goes far beyond just a website.]]></description>
+										<content:encoded><![CDATA[<p>At one time, the internet appeared to offer all organisations a simple proposition: email connectivity and a clickable presence in the form of a website. Today, web presence has rapidly evolved with interactive content and the ability to deliver transactional experiences – or e-commerce. Migrating services online helps business reduce costs, while customers benefit from the convenience and autonomy of self-service.</p>
+<blockquote><p><strong>Financial services</strong> are faced with the challenge of delivering their customers with an online experience that goes far beyond just a website.</p></blockquote>
+<p>Financial services sites are absolutely competitive. They are really trying to drive people online. The self-service model is being taken seriously so they want to make sure their sites are available, responsive and allow users to do as many things as possible.Though, many have shown an overall poor performance. The top reasons for failure were as follows: company websites make browsing too difficult; content missing, repeated andpoorly worded; and site search doesn’t work for typical tasks.Here are three factors for a successful online financial service site which keeps users engaged and displays great use of technology while still delivers company’s messages clearly and effectively:</p>
+<ul>
+<li>Customer experience, which includes the impression the homepage and overall design style give the customers, their satisfaction when they interact with the site and perform tasks.</li>
+<li>Best practices, such as ease of use, quality, availability and security – site managers must be compliant with data laws requiring them to protect customer information and the integrity of customer accounts.</li>
+<li>Service-level, which looks at responsiveness and reliability of websites – scores them on how quickly they respond to user commands and such factors as average downtime.</li>
+</ul>
+<p>Financial services must tie these three factors together – customer experience, best practices and reliability/responsiveness – to have an effective web presence. They can’t go hard into one particular area and ignore the others. They have to understand what’s available versus their competitors, what consumers think of their sites versus competitors’ and how their sites are performing.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../standard-post/feed/index.html</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How To Choose The Best Theme For My Business?</title>
+		<link>./../../../stages-of-the-startup-lifecycle/index.html</link>
+					<comments>./../../../stages-of-the-startup-lifecycle/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2015 03:08:17 +0000</pubDate>
+				<category><![CDATA[Anything]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[Awesome]]></category>
+		<category><![CDATA[Great]]></category>
+		<category><![CDATA[Super]]></category>
+		<guid isPermaLink="false">http://vietcao.local/polygon/?p=52</guid>
+
+					<description><![CDATA[Building a beautiful website for your business begins with choosing a theme — a design that controls page layout, widget areas, and default style. Selecting Polygon is your best choice for this.]]></description>
+										<content:encoded><![CDATA[<p>Building a beautiful website for your business begins with choosing a theme — a design that controls page layout, widget areas, and default style. Selecting Polygon for your business website can feel overwhelming, but you can make it easier by focusing on these three questions.What Am I Publishing on My Website?Draft a visual map of your website to help you plan your site structure and decide what you want your homepage to look like. Will your homepage contain static information about your business like a welcome message and business hours or do you want to showcase your latest blog content?What Features Do I Need?Are you building a restaurant website, a landing page for your hotel, a corporate blog, or something completely different? Depending on your business, you may need website features exclusive to certain themes.What Look and Feel Do I Want for My Website?You can filter themes by style and color if you have a specific look in mind or need to match a brand logo. While most themes can be tweaked with custom headers and background colors, Custom Design unlocks next-level customization.Think back to the content you expect to publish on your site. Do you need a design that showcases photos? If so, choose a portfolio site or a design that makes the most of high-resolution photos. Perhaps photography plays a small role in your website design. If so, avoid themes that only look good with a lot of photos.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../stages-of-the-startup-lifecycle/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

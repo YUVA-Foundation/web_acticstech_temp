@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>boss &#8211; Actics Technologies</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 09 Sep 2015 03:07:30 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/03/cropped-actics-04-1-32x32.png</url>
+	<title>boss &#8211; Actics Technologies</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Daily Inspiration</title>
+		<link>./../../../daily-inspiration/index.html</link>
+					<comments>./../../../daily-inspiration/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2015 03:07:30 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[boss]]></category>
+		<category><![CDATA[success]]></category>
+		<category><![CDATA[Super]]></category>
+		<guid isPermaLink="false">http://vietcao.local/polygon/?p=46</guid>
+
+					<description><![CDATA[On autumn weekends with good weather you can almost experience caravans of people marching over the grandiose lookout balconies between the Dolomites and the Tauern and filling the mountain lodges to capacity.]]></description>
+										<content:encoded><![CDATA[<p>On autumn weekends with good weather you can almost experience caravans of people marching over the grandiose lookout balconies between the Dolomites and the Tauern and filling the mountain lodges to capacity. But very few people have the idea of turning the perspective around and approaching the Carnic ridge for once from the valley side. And that is something that is certainly worthwhile.It is no coincidence that at Heinfels in the valley of Drau, which is called Pustertal here, there stands an ancient castle that still appears to be fortified. It guards the entrance to two valleys: the Villgratental and the Tyrolean Gailtal. The latter is quite hidden, as it begins with a terrain level high above the valley floor of the river Drau. There is a climb of several hundred metres on a serpentine road before reaching the community of Kartitsch, with the prettily shaped tower of the St. Leonhard parish church. From the enclosure wall of the cemetery you can enjoy a distant view to the west into the Pustertal, which here runs in a strikingly straight line. The reason for this is a distinct geological line, the “peri-adriatic seam“. This frontier line leaves the Pustertal in Kartitsch and follows the Tyrolean Gailtal, which to the east of the Kartitscher Sattel is called the Tilliacher Tal, and then further east beyond the federal border with Carinthia again changes its name, and for the next 20 kilometres goes under the name of Lesachtal. At Kötschach-Mauthen the name of the valley changes again, confusingly back to Gailtal, which at Villach at last flows into the Drau.Viewed from above, the Gail or Lesachtal also runs in a straight line. There is a clear distinction in appearance between the northern and southern sides of the valley. N ons side the gentle foothills of the Lienzer Dolomites, with its wide alp areas, on the other side the rocky contours of the Carnic ridge towering above thick mountain forest and marking the state border with Italy.In Kartitsch we are already 1.350 m above sea level, the area is one of the highest situated valleys in East Tyrol, which itself is at high altitude.Some 200 m higher the Kartitscher Sattel is reached, from where you can look down onto Obertilliach and Untertilliach.“Golzentipp“ is the name of the local mountain in this area. A perfect vantage point with a grandiose panorama view, encompassing the Hohen Tauern and the Schober group of mountains, the Lienzer Dolomites, the Carnic Alps, the Sextener Dolomites and far into the Pustertal. The chances are good that the view can also be enjoyed, as testified by the many years of meteorological records taken in this region, showing an above-average number of sunny days.Fans of high rocky cliffs will prefer the south side of the valley and head for one of the many side valleys of the Carnic ridge. Pfannspitze, Großer Kinigat, Porze, Cima Manzon, Gamskofel, Hochspitz, Steinkarspitz – between the Obstanser See and the Luggauer Scharte there are countless opportunities to test your stamina and alpine abilities in the midst of grandiose mountain scenery.[From mountainvillages.at]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../daily-inspiration/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
